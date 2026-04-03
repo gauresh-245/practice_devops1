@@ -4,5 +4,6 @@ public class First{
         int num2 = 195;
         int sum = num1 + num2;
         System.out.println("The sum of " + num1 + " and " +num2 + " is: " + sum);
+        System.out.println("New Line Added");
    }
 }
